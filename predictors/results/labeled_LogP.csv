@@ -1,0 +1,11 @@
+index,smiles,cano_smiles,y_pred_label
+1,FC(C(F)(F)F)C(F)(F)F,FC(C(F)(F)F)C(F)(F)F,2.1702037
+2,FC(F)(F)CC(F)(F)F,FC(F)(F)CC(F)(F)F,1.9906405
+3,CC(F)(F)CC(F)(F)F,CC(F)(F)CC(F)(F)F,1.9837028
+4,CC(F)(F)F,CC(F)(F)F,1.2245257
+5,CN1CCN(CCCN2c3ccccc3Sc4ccc(cc24)C(F)(F)F)CC1,CN1CCN(CCCN2c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1,5.120752
+6,CN(CCO)[S](=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,CN(CCO)S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,2.7820706
+7,CN[S](=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,CNS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,3.0868487
+8,CCN(CCO)[S](=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,CCN(CCO)S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,3.5833783
+9,OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,5.689058
+10,OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,6.6516123
