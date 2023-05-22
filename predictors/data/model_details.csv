@@ -1,0 +1,16 @@
+﻿index,radius,T,fingerprint_dim,model_path
+BAF,3,4,150,saved_models\model_BAF.pt
+BCF,5,7,200,saved_models\model_BCF.pt
+AOH,5,5,150,saved_models\model_AOH.pt
+KOC,6,4,200,saved_models\model_KOC.pt
+HL,5,3,250,saved_models\model_HL.pt
+VP,4,4,200,saved_models\model_VP.pt
+KOA,5,3,250,saved_models\model_KOA.pt
+Biodeg,6,5,200,saved_models\model_Biodeg.pt
+BP,4,5,200,saved_models\model_BP.pt
+KM,6,5,200,saved_models\model_KM.pt
+LogP,4,5,200,saved_models\model_LogP.pt
+MP,6,6,200,saved_models\model_MP.pt
+pKa_acidic,5,2,200,saved_models\model_pKa_acidic.pt
+pKa_basic,5,4,200,saved_models\model_pKa_basic.pt
+WS,4,7,200,saved_models\model_WS.pt
