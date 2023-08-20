@@ -27,7 +27,3 @@ You can download the data in the files under `./data` folder.
 
 Prediction demo can be found in `./code/prediction.ipynb`. Hyperparameters of the models are stored in `./data/model_details.csv`, and chemicals to be predicted are stored in `./data/dataset.csv`.
 
-
-## Acknowledgement
-
-source codes called to establish the models: [https://github.com/OpenDrugAI/AttentiveFP]
